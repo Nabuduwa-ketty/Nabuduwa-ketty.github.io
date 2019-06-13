@@ -4,7 +4,7 @@ body {
 }
 a{
 	text-decoration: none;
-	color: red;
+	color: Blue;
 }
 h1,h2{
 	margin: 0;
@@ -26,6 +26,13 @@ h1,h2{
 #content{
 	padding: 10px;
 }
+table, th, td {
+	border: 1px solid #800080;
+	text-align:left;
+	padding: 5px;
+	border-collapse:collapse;
+}
+
 #nav{
 	width: 180px;
 	float: left;
